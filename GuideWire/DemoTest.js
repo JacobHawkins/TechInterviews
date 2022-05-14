@@ -57,4 +57,9 @@ OK
 
 Example test:   [-1, -3]
 OK
+
+Test case I added myself:
+
+[]
+assumption I made is to return 1. And if the input is not an array at all, return 1.
  */
